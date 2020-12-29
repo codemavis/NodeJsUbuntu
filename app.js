@@ -10,7 +10,7 @@ app.use(express.json());
 
 app.get('/', (req, res) => {
     //handle root
-    res.send("hi root");
+    res.send("hi Sujee");
 });
 
 app.listen(port, err => {
